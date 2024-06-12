@@ -1,0 +1,48 @@
+/* .logo{
+    width: 20%;
+} */
+
+/* h2{
+    margin: 1vw 0;
+}
+
+p{
+    margin-bottom: 2vw;
+} */
+
+/* body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    background-color: #2e51a2;
+} */
+
+.content{
+    padding: 2vw;
+    border-radius: 15px;
+    width: 50vw;
+    background-color: white;
+}
+
+.content, .register, form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* input{
+    width: 25vw;
+    padding: 0.5vw;
+    border-radius: 10px;
+    margin: 0.5vw;
+}
+
+button{
+    margin: 1vw;
+    padding: 0.5vw 1vw;
+    border-radius: 10px;
+} */
+

@@ -1,0 +1,76 @@
+.navbar a{
+    color: white;
+}
+
+/* .navbar .account .image{
+    width: 2.5vw;
+    height: 2.5vw;
+    overflow: hidden;
+    margin-right: 1vw;
+    border-radius: 5px;
+}
+
+.navbar .account img{
+    height: 100%;
+} */
+
+/* * {
+    margin: 0;
+    padding: 0;
+
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+    font-family: 'Montserrat', sans-serif;
+
+    text-decoration: none;
+}
+
+.navbar{
+    background-color: #2e51a2;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1vw 1.5vw;
+}
+
+.navbar a{
+    color: white;
+}
+
+.navbar .navbar-left{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.navbar .navbar-left .links{
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar .navbar-left .links a{
+    margin: 0 1vw;
+}
+
+.navbar .navbar-left img{
+    width: 12vw;
+    margin-right: 1.5vw;
+}
+
+.navbar .account a{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.navbar .account .image{
+    width: 2.5vw;
+    height: 2.5vw;
+    overflow: hidden;
+    margin-right: 1vw;
+    border-radius: 5px;
+}
+
+.navbar .account img{
+    height: 100%;
+} */
